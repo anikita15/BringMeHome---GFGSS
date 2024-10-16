@@ -12,3 +12,9 @@ The *Pet Adoption & Care* website is a simple platform designed to help connect 
 
 ## Technologies Used
 - *Frontend*: HTML5, CSS3
+
+##Project Structure
+
+├── index.html           # Main HTML file
+├── styles.css           # Styling for the project
+└── README.md            # Project documentation (this file)
